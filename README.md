@@ -1,2 +1,2 @@
-"# SnekRuslan" 
+# SnekRuslan 
 А ЕСЛИ БЫ РУСЛАН БЫЛ ЗМЕЁЙ?
